@@ -154,10 +154,13 @@ activemq-data/
 .envrc
 .venv
 env/
+.aitravelplanner
+aitravelplanner/
 venv/
 ENV/
 env.bak/
 venv.bak/
+
 
 # Spyder project settings
 .spyderproject
